@@ -1,0 +1,4 @@
+mssql-python==1.3.0
+pymssql==2.3.13
+python-dotenv>=1.0.0
+requests-gssapi==1.4.0
